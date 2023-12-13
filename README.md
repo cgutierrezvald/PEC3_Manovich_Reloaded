@@ -31,6 +31,7 @@ para Google, la New York Public Library, el Museo de Arte Moderno de Nueva York 
 
 # La hibridación
 
+# Caso de estudio: PlatixApp
 
 
 # Bibliografía
