@@ -32,7 +32,7 @@ para Google, la New York Public Library, el Museo de Arte Moderno de Nueva York 
 # La hibridación
 
 # Caso de estudio: PlatixApp
-
+![PlantixApp](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/edit/main/PlantixAppPortada.PNG)
 
 # Bibliografía
 * Imagen de Lev Manovich <https://www.flickr.com/photos/jeanbaptisteparis/4631590253/in/photostream/>
