@@ -62,7 +62,32 @@ Y con esto ya doy paso a mi dos ejemplo de hibridación, por un lado un asistent
 
 # Caso de estudio: PlatixApp - Tu jardinero virtual
 ![PlantixApp](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/PlantixAppPortada.PNG "PlantixApp")
+> Platix ayuda a los agricultores a diagnosticar y tratar lo problemas de sus cultivos, mekjorar la productividad y brinda conocimientos agrícolas.
 
+Este texto es la carta de presentación de la aplicación, ahora voy a ver un poco más lo que nos ofrecen.
+
+### Diagnóstico de enfermedades
+Nos indican que tomando una foto podemos diagnosticar los posibles problemas que tengan nuestras plantas, en este caso la hibridación se está realizando gracias a que tomando un foto de algo que pertenece al mundo real, un software es capaz de identificar posibles problemas es dicho elemento, es decir en nuestro cultivo, evidentemente gracias a la integración de distintos elemento, uno meramente físico que es la toma de la foto y después la utilización de un software de reconocimiento de imágenes conectado a una base de datos se sonsigue averiguar la enfermedad del cultivo, antiguamente si no se hacía mediante la observación directa del experto no se podía.
+
+![PlantixApp](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/PlantixDiagnostico.PNG "PlantixApp")
+
+### Consejos de otros agricultores y de expertos
+Es otra de las posibilidades que nos brinda esta aplicación, nuevamente se está generando una hibridación dado que nos permite no sólo tener una base de datos de consejos, sino que integra comunicación asíncrona con otras personas que nos podran dar asesoramiento sobre los cultivos.
+
+![PlantixApp](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/PlantixConsejos.PNG "PlantixApp")
+
+### Biblioteca de conocimientos
+También tiene una amplia base de datos sobre cultivos, consejo y trucos. En este caso la hibridación es más simple o menos novedosa, dado que es algo que ofrecen la mayoría de las webs o aplicaciones de la materia, pero no deja de ser un añadido a la hibridación entre una App y la base de conociento que podríamos adquirir por ejemplo yendo a un experto en la materia o a una biblioteca especializada.
+
+![PlantixApp](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/PlantixBiblioteca.PNG "PlantixApp")
+
+Bajo mi punto de vista es un ejemplo de hibridación en el que se ha integrado distintos elementos de la vida real en una aplicación móvil que nos permite realizar acciones que de otra manera habrían requerido más tiempo y esfuerzo y en la que los medios virtual y real se entrelazan para beneficio de los usuarios.
+
+Como indica Manovich en su libro:
+
+> Lo que el software simula son las técnicas físicas, mecánicas o electrónicas empleadas para navegar, crear, editar e interaccionar con los datos de los medios.
+
+Por lo tanto en este caso es una simulación de técnicas físicas para navegar e interaccionar con los datos de los medios.
 
 # Caso de estudio: Tron - Integración entre vídeo, realidad virtual y videojuegos
 ![Tron](https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/Tron.jpg "Tron - La película")
