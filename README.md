@@ -106,6 +106,10 @@ Porteriormente a la película salieron varios juegos de la saga Tron, que preten
   <img src="https://github.com/cgutierrezvald/PEC3_Manovich_Reloaded/blob/main/Tron-Evolution.PNG">
 </p>
 
+
+# Conclusiones
+*Aún por concluir*
+
 # Bibliografía
 * Imagen de Lev Manovich <https://www.flickr.com/photos/jeanbaptisteparis/4631590253/in/photostream/>
 * Biografía de Lev Manovich <https://es.wikipedia.org/wiki/Lev_Manovich>
