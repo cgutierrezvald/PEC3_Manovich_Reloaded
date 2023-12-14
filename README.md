@@ -110,6 +110,18 @@ Porteriormente a la película salieron varios juegos de la saga Tron, que preten
 # Conclusiones
 *Aún por concluir*
 
+Como bien dice Manovich en su libro:
+
+> En lugar de numerosos materiales e instrumentos por separado, ahora podemos utilizar una única aplicación de software cuyas herramientas y filtros pueden simular diversas técnicas de creación y modificación de medios. Los efectos que anteriormente no podían combinarse, puesto que eran específicos de unos materiales concretos, ahora son accesibles desde un simple menú desplegable. Y cuando alguien inventa un algoritmo, o una nueva versión de un algoritmo ya existente, puede añadirse fácilmente a este menú mediante la arquitectura de plugins que se normalizó en los años noventa.
+
+En ambos casos nos estamos ahorrando tiempo, dinero y esfuerzo en la realización de todas las tareas que se llevan a cabo mediante el uso de algún tipo de software que nos permite por un lado gestionar correctamente un huerto, nuestros cultivos o simplemente las plantas de la casa, sin necesidad de hacer desplazamientos o pagar a especialistas para que nos resuelvan las dudas que podamos tener el respecto de nuestros cultivos. En el otro caso, la industria cinematrográfica y de los videojuegos han aumentado mucho sus beneficios gracias a la utilización de software que permite la eliminación de maquinaria pesada en unos casos o la contratación de costosos equipos de desarrollo o la fabricación de escenarios necesarios para la filmación de las películas o la recreación en el mundo real de los juegos.
+
+En el libro de Manovich también hace mención a lo que comento de la película de Tron:
+
+> Poco a poco son más las películas que incluyen estéticas altamente estilizadas pque anteriormenre hubiéramos identificado con las ilustración y no con la creación cinematográfica.
+
+En Tron hacen uso precisamente de este elemento el croma o plató digital para la creación de los escenarios del mundo virtual del videojuego.
+
 # Bibliografía
 * Imagen de Lev Manovich <https://www.flickr.com/photos/jeanbaptisteparis/4631590253/in/photostream/>
 * Biografía de Lev Manovich <https://es.wikipedia.org/wiki/Lev_Manovich>
