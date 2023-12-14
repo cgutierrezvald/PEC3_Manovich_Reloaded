@@ -116,4 +116,4 @@ Porteriormente a la película salieron varios juegos de la saga Tron, que preten
 * PlantixApp <https://plantix.net/es/>
 * Tron <https://es.wikipedia.org/wiki/Tron>
 * Tron: Evolution - el video juego <https://es.wikipedia.org/wiki/Tron:_Evolution>
-* Manovich, Lev. (2013). "El software toma el mando", Capítulos 4 y 5. Barcelona: Editorial UOC.
+* Manovich, Lev. (2013). "**El software toma el mando**". Barcelona: Editorial UOC.
